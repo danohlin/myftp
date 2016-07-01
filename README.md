@@ -2,9 +2,13 @@
 Simple FTP client
 
 Name: Dan Ohlin
+
 Operating system: Windows
+
 Programing language: Python 2.7
+
 Compiling instructions: N/A
+
 
 Running instructions:
 Start program from command line using: python myftp.py <ftpserver>
